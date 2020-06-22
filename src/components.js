@@ -48,6 +48,7 @@ function Components() {
         <div className="container">
             <h1 className="text-center">Expense Tracker</h1>
             <h1 className="text-center">Surge Testing</h1>
+            <h1 className="text-center">Surge Testing</h1>
 
             <h3 className="text-center">Your Balance PKR {getIncome() + getExpense()}</h3>
 
