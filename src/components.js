@@ -55,7 +55,7 @@ function Components() {
                 <h3 className='expense'>EXPENSES <br /> PKR {getExpense()}</h3>
             </div>
 
-            <h3>History</h3>
+            <h3>Transaction History</h3>
             <hr />
 
             <ul className="transaction-list">
